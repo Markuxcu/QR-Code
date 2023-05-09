@@ -1,4 +1,5 @@
 import qrcode
+from Pillow import Image
 
 choice = input("What should be encoded, a message(1) or an image(2):\n")
 
